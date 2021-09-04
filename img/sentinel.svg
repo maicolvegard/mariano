@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#272626;}
+	.st1{fill:#8AC642;}
+	.st2{fill:#C8382E;}
+	.st3{fill:url(#SVGID_1_);}
+</style>
+<g>
+	<circle class="st0" cx="250.1" cy="250.3" r="114.6"/>
+	<ellipse transform="matrix(0.5426 -0.84 0.84 0.5426 -105.776 397.3315)" class="st1" cx="311.9" cy="295.8" rx="34.1" ry="25.6"/>
+	<ellipse transform="matrix(0.5426 -0.84 0.84 0.5426 -106.9081 404.8289)" class="st2" cx="318.3" cy="300.6" rx="7.9" ry="7.1"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1115.2839" y1="984.3235" x2="-963.8801" y2="984.3235" gradientTransform="matrix(-0.84 -0.5426 -0.5426 0.84 -121.8925 -1162.3267)">
+		<stop  offset="0" style="stop-color:#191919"/>
+		<stop  offset="0.5004" style="stop-color:#1A1A1A"/>
+		<stop  offset="0.6806" style="stop-color:#1E1E1E"/>
+		<stop  offset="0.8091" style="stop-color:#252525"/>
+		<stop  offset="0.9122" style="stop-color:#2D2D2D"/>
+		<stop  offset="1" style="stop-color:#373636"/>
+	</linearGradient>
+	<path class="st3" d="M312.1,153.4c10.8,7,20.1,15.5,27.7,25.1c-46.3-11.6-96.8,6.6-124.2,49s-23.2,95.9,6.4,133.3
+		c-11.8-3-23.4-7.9-34.2-14.9c-53.2-34.3-68.4-105.3-34.1-158.4S258.9,119.1,312.1,153.4z"/>
+</g>
+</svg>
